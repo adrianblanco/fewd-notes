@@ -1,2 +1,7 @@
 # fewd-notes
-My notes from the Front End Wed Development course - Udacity &amp; Google Developer Scholarship
+
+Course: Front End Wed Development 
+Institution: Udacity
+Granted by: Google Developer Scholarship
+
+In October 2017 I was one of the 
