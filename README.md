@@ -15,8 +15,8 @@ In October 2017 I was one of the 20,000 students all over Europe, Russia, Egypt,
 3. [Javascript](##Javascript)
 
 
-## HTML
+## HTML <a name="HTML"></a>
 
-## CSS
+## CSS <a name="CSS"></a>
 
-## Javascript
+## Javascript <a name="Javascript"></a>
