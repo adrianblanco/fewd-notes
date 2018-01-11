@@ -1,4 +1,4 @@
-# fewd-notes
+# Front End Web Development notes
 
 Course: **Front End Wed Development**
 
