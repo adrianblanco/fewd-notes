@@ -1,6 +1,8 @@
-# Front End Web Development notes
+# Front End Web Development course notes
 
 Course: **Front End Wed Development**
+
+Year: 2017/2018
 
 Institution: **Udacity**
 
