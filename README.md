@@ -51,7 +51,7 @@ At this point, just focus on these two tags:
 
 As I mentioned before, there's another kind of list: an ordered list. Try switching the `<ul> for an <ol>` to see how it looks!
 
-Actually, you might find that you can make an <li> element appear on the page without putting it inside a `<ul> or <ol>. Just because this works doesn't mean that you should ever do this. It's the equivalent of writing a sentence with bad grammar - most people will probably understand what you mean but some people will get confused. In this case, "people" are browsers and "confused" means "render your website incorrectly."
+Actually, you might find that you can make an <li> element appear on the page without putting it inside a `<ul> or <ol>`. Just because this works doesn't mean that you should ever do this. It's the equivalent of writing a sentence with bad grammar - most people will probably understand what you mean but some people will get confused. In this case, "people" are browsers and "confused" means "render your website incorrectly."
 
 Inside the opening a tag there is href, which stands for "reference." This is called an attribute. Attributes like href describe the properties of HTML elements. In this case, the href attribute is the target URL that the link will open. The content inside the anchor element is the text that users see displayed on the page.
 
