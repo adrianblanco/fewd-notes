@@ -49,7 +49,7 @@ At this point, just focus on these two tags:
 <meta charset="utf-8">
 <meta charset="utf-8"> is pretty standard, and will allow your website to display any Unicode character. (Read more on how UTF-8 works here.) <title> will define the title of the document and will be displayed in the tab of the browser window when a user visits the page.
 
-As I mentioned before, there's another kind of list: an ordered list. Try switching the <ul> for an <ol> to see how it looks!
+As I mentioned before, there's another kind of list: an ordered list. Try switching the `<ul> for an <ol>` to see how it looks!
 
 Actually, you might find that you can make an <li> element appear on the page without putting it inside a <ul> or <ol>. Just because this works doesn't mean that you should ever do this. It's the equivalent of writing a sentence with bad grammar - most people will probably understand what you mean but some people will get confused. In this case, "people" are browsers and "confused" means "render your website incorrectly."
 
